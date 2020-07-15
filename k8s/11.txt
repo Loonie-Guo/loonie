@@ -1,0 +1,7 @@
+kube-system calico-node-cm49p 250m (0%) 0 (0%) 0 (0%) 0 (0%) 7d19h
+kube-system csi-cinder-nodeplugin-9kchc 0 (0%) 0 (0%) 0 (0%) 0 (0%) 7d19h
+kube-system eric-tm-external-connectivity-frontend-speaker-fhgj8 50m (0%) 100m (0%) 250Mi (0%) 300Mi (0%) 7d19h
+kube-system kube-multus-ds-amd64-plbk9 100m (0%) 100m (0%) 50Mi (0%) 50Mi (0%) 7d19h
+kube-system kube-proxy-r98kq 0 (0%) 0 (0%) 0 (0%) 0 (0%) 7d19h
+monitoring eric-pm-server-node-exporter-tj9jh 100m (0%) 200m (0%) 100Mi (0%) 150Mi (0%) 7d19h
+pcg eric-pc-up-data-plane-9679d9b94-khjdm 34 (94%) 34 (94%) 48Gi (76%) 48Gi (76%) 12h

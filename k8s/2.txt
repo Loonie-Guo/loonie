@@ -1,0 +1,9 @@
+kube-system calico-node-bw22r 250m (6%) 0 (0%) 0 (0%) 0 (0%) 7d20h
+kube-system coredns-57cf4d659f-69z9w 100m (2%) 0 (0%) 70Mi (0%) 170Mi (2%) 7d20h
+kube-system kube-apiserver-master-2-eccd1 250m (6%) 0 (0%) 0 (0%) 0 (0%) 7d20h
+kube-system kube-controller-manager-master-2-eccd1 200m (5%) 0 (0%) 0 (0%) 0 (0%) 7d20h
+kube-system kube-multus-ds-amd64-ppp4m 100m (2%) 100m (2%) 50Mi (0%) 50Mi (0%) 7d20h
+kube-system kube-proxy-pfsmh 0 (0%) 0 (0%) 0 (0%) 0 (0%) 7d20h
+kube-system kube-scheduler-master-2-eccd1 100m (2%) 0 (0%) 0 (0%) 0 (0%) 7d20h
+kube-system openstack-cloud-controller-manager-89svb 200m (5%) 0 (0%) 0 (0%) 0 (0%) 7d20h
+monitoring eric-pm-server-node-exporter-xkmmw 100m (2%) 200m (5%) 100Mi (1%) 150Mi (1%) 7d20h

@@ -1,0 +1,12 @@
+master-0-eccd1
+master-1-eccd1
+master-2-eccd1
+worker-pool1-3ocd5iq0-eccd1
+worker-pool1-682a6cla-eccd1
+worker-pool1-d4nv64yz-eccd1
+worker-pool1-ux580ey6-eccd1
+worker-pool1-w4bwcuy7-eccd1
+worker-pool2-79w19t35-eccd1
+worker-pool2-8k1hww8f-eccd1
+worker-pool2-r07e163s-eccd1
+worker-pool3-2w0t4cjv-eccd1
